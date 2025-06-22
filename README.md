@@ -1,16 +1,83 @@
-## Hi there 👋
+<!-- ──────────────────────────── ✨ BANNER ✨ ──────────────────────────── -->
+<p align="center">
+  <img src="https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/logo.png"
+       alt="PJ Logo" width="200px" />
+</p>
 
-<!--
-**SilverDelgado/SilverDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hey, I'm Pablo Jesús – SilverDelgado 🧠🔐</b></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>AI & Cybersecurity student · Algorithmic Trading enthusiast</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
+<table align="center">
+  <tr>
+    <td>🎓 <b>Student</b></td>
+    <td>B.Sc. in Cybersecurity & Artificial Intelligence @ <a href="https://www.uma.es">University of Málaga</a></td>
+  </tr>
+  <tr>
+    <td>🛠 <b>Stack</b></td>
+    <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ Bash ‧ Git ‧ SQL ‧ Linux</td>
+  </tr>
+  <tr>
+    <td>💹 <b>Focus</b></td>
+    <td>Artificial Intelligence · Quantitative Finance · Algorithmic Trading · Systems Security</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Base</b></td>
+    <td>Málaga, Spain (GMT+2)</td>
+  </tr>
+</table>
+
+<!-- ──────────────────────────── 📂 REPOSITORIES ──────────────────────────── -->
+### 📂 Featured Repositories
+
+*(Coming soon — stay tuned!)*
+
+<!-- ──────────────────────────── 🥇 HIGHLIGHTS ──────────────────────────── -->
+### 🏆  Certifications & Highlights
+
+- 🧠 **NVIDIA** — *Fundamentals of Deep Learning*  
+- ⚡ **NVIDIA** — *Fundamentals of Accelerated Computing with CUDA C/C++*  
+- 🛡️ **Google** — *Cybersecurity Workshop (Security, Safety and Privacy Team)*  
+- 🇬🇧 **Cambridge University** — *Certificate in Advanced English (Level C1)*  
+
+<!-- ──────────────────────────── 📄 CV ──────────────────────────── -->
+### 📄 Resume
+
+Want more details?  
+👉 [View or download my CV here](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv.pdf)
+
+<!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
+### 🤝  Let's Connect
+
+<div align="center">
+  <a href="mailto:pablojesusdelgadomunoz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send&nbsp;me&nbsp;a&nbsp;message-informational?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pjdm5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect&nbsp;with&nbsp;me-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</div>
+
+<!-- ──────────────────────────── 📊 STATS ──────────────────────────── -->
+<details>
+  <summary>📈 GitHub stats</summary>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=SilverDelgado&show_icons=true&count_private=true&theme=radical"
+      alt="SilverDelgado's GitHub stats"
+    />
+    <br />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=SilverDelgado&theme=radical"
+      alt="GitHub Streak"
+    />
+  </p>
+</details>
+
+<!-- ──────────────────────────── 👀 VIEWS ──────────────────────────── -->
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SilverDelgado&style=flat-square&color=blue" />
+</p>
