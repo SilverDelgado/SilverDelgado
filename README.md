@@ -52,6 +52,7 @@
 
 Want more details?  
 👉 [Descarga mi CV aquí](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv_esp.pdf)
+<br>
 👉 [View or download my CV here](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv_eng.pdf)
 
 <!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
