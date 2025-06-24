@@ -51,7 +51,8 @@
 ### 📄 Resume
 
 Want more details?  
-👉 [View or download my CV here](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv.pdf)
+👉 [Descarga mi CV aquí](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv_esp.pdf)
+👉 [View or download my CV here](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv_eng.pdf)
 
 <!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
 ### 🤝  Let's Connect
