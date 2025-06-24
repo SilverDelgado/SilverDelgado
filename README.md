@@ -70,10 +70,6 @@ Want more details?
       alt="SilverDelgado's GitHub stats"
     />
     <br />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=SilverDelgado&theme=radical"
-      alt="GitHub Streak"
-    />
   </p>
 </details>
 
