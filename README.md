@@ -1,6 +1,6 @@
 <!-- ──────────────────────────── ✨ BANNER ✨ ──────────────────────────── -->
 <p align="center">
-  <img src="https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/logo.gif?raw=true"
+  <img src="https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/logo.png"
        alt="PJ Logo" width="200px" />
 </p>
 
