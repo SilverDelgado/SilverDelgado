@@ -34,7 +34,7 @@
 ### 📂 Featured Repositories
 | 🚀 Project | ⚙️ Stack | ⚡ Elevator Pitch |
 |-----------|----------|------------------|
-| [**Market Master**](https://github.com/Sauvageduck24/Market-Master-Algorithmic-Trading-System) | Python · C | Modular algorithmic-trading engine with live brokerage support |
+| [**Market Master**](https://github.com/SilverDelgado/marketmastereadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support |
 | [**Sigma Security**](https://github.com/Sauvageduck24/sigma-security-practicas) | Flask · JS | Lightweight capture-the-flag platform for uni cybersecurity labs |
 | [**University Class Practices**](https://github.com/SilverDelgado/Universidad-Optimizacion) | Python | University class practices in different fields, such as AI, algorithms, etc. |
 | [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · Pytorch · CUDA| AI for Earthquake Response Competition solution implementation |
