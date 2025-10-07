@@ -11,7 +11,7 @@
 <!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
 <table align="center">
   <tr>
-    <td>🎓 <b>Student</b></td>
+    <td>🎓 <b>Education</b></td>
     <td>B.Sc. in Cybersecurity & Artificial Intelligence @ <a href="https://www.uma.es">University of Málaga</a></td>
   </tr>
   <tr>
@@ -19,7 +19,7 @@
     <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ Bash ‧ Git ‧ SQL ‧ Linux</td>
   </tr>
   <tr>
-    <td>💹 <b>Focus</b></td>
+    <td>💹 <b>Research Focus</b></td>
     <td>Artificial Intelligence · Quantitative Finance · Algorithmic Trading · Systems Security</td>
   </tr>
   <tr>
