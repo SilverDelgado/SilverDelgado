@@ -16,7 +16,8 @@
   </tr>
   <tr>
     <td>🛠 <b>Stack</b></td>
-    <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ Bash ‧ Git ‧ SQL ‧ Linux</td>
+    <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ SQL ‧ Qlib ‧ VectorBT · Optuna
+</td>
   </tr>
   <tr>
     <td>🎯 <b>Research Focus</b></td>
