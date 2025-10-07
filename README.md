@@ -19,7 +19,7 @@
     <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ Bash ‧ Git ‧ SQL ‧ Linux</td>
   </tr>
   <tr>
-    <td>💹 <b>Research Focus</b></td>
+    <td>🎯 <b>Research Focus</b></td>
     <td>Artificial Intelligence · Quantitative Finance · Algorithmic Trading · Systems Security</td>
   </tr>
   <tr>
