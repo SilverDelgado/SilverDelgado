@@ -35,7 +35,7 @@
 |-----------|----------|------------------|
 | [**LLQUANT**](https://github.com/SilverDelgado/LLQuant) | Python | Hybrid asset management framework that combines ML to predict Alpha with LLM Agents to audit fundamental risks and determine delta for final portfolio weighted optimization using Black-Litterman model |
 | [**Regime Detection Market Data**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | HMM · Python · Pytorch | Market data state detection via ML |
-| [**Market Master**](https://github.com/SilverDelgado/marketmastereadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support |
+| [**Market Master (Private) **](https://github.com/SilverDelgado/marketmastereadme/blob/main/README.md) | Python · C | Modular algorithmic-trading engine with live brokerage support |
 | [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · Pytorch · CUDA | AI for Earthquake Response Competition solution implementation |
 | [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence |
 | [**HMU**](https://github.com/Sauvageduck24/HMU) | CUDA · PyTorch | Re-creation of Hippocampus Memory Unit paper (and dopamine gating) + open-sourced code |
