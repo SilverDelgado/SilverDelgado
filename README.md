@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>📍 <b>Base</b></td>
-    <td>Málaga, Spain (GMT+2)</td>
+    <td>Málaga, Spain CET</td>
   </tr>
 </table>
 
