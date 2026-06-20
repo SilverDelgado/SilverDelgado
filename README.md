@@ -50,16 +50,8 @@
 - 🇬🇧 **Cambridge University** — *Certificate in Advanced English (Level C1)*
 - ⚡ **NVIDIA** — *Fundamentals of Accelerated Computing with CUDA C/C++* 
 - 🧠 **NVIDIA** — *Fundamentals of Deep Learning*  
-- 🛡️ **Google** — *Cybersecurity Workshop (Security, Safety and Privacy Team)*  
-
-<!-- ──────────────────────────── 📄 CV ──────────────────────────── -->
-### 📄 Resume
-
-Want more details?  
-👉 [Descarga mi CV aquí](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv_esp.pdf)
-<br>
-👉 [View or download my CV here](https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/cv-mm.pdf)
-
+- 🛡️ **Google** — *Cybersecurity Workshop (Security, Safety and Privacy Team)*
+- 
 <!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
 ### 🤝  Let's Connect
 
