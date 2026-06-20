@@ -56,9 +56,6 @@
 ### 🤝  Let's Connect
 
 <div align="center">
-  <a href="mailto:pablojesusdelgadomunoz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send&nbsp;me&nbsp;a&nbsp;message-informational?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/pjdm5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect&nbsp;with&nbsp;me-blue?style=for-the-badge&logo=linkedin">
   </a>
