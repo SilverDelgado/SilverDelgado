@@ -15,8 +15,8 @@
     <td>B.Sc. in Cybersecurity & Artificial Intelligence @ <a href="https://www.uma.es">University of Málaga</a></td>
   </tr>
   <tr>
-    <td>🛠 <b>Stack</b></td>
-    <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ SQL ‧ Qlib ‧ VectorBT · Optuna
+    <td><b>Stack</b></td>
+    <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ SQL
 </td>
   </tr>
   <tr>
