@@ -1,4 +1,4 @@
-<!-- ──────────────────────────── ✨ BANNER ✨ ──────────────────────────── -->
+<!-- ──────────────────────────── BANNER ──────────────────────────── -->
 <h1 align="center"><b>Hey, I'm Pablo Jesús – SilverDelgado </b></h1>
 <p align="center">
   <img src="https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/logo.png"
@@ -8,10 +8,10 @@
   <em>AI & Cybersecurity student · Algorithmic Trading enthusiast</em>
 </p>
 
-<!-- ──────────────────────────── 🚀 QUICK BITS ──────────────────────────── -->
+<!-- ──────────────────────────── QUICK BITS ──────────────────────────── -->
 <table align="center">
   <tr>
-    <td>🎓 <b>Education</b></td>
+    <td><b>Education</b></td>
     <td>B.Sc. in Cybersecurity & Artificial Intelligence @ <a href="https://www.uma.es">University of Málaga</a></td>
   </tr>
   <tr>
@@ -20,18 +20,18 @@
 </td>
   </tr>
   <tr>
-    <td>🎯 <b>Research Focus</b></td>
+    <td><b>Research Focus</b></td>
     <td>Artificial Intelligence · Quantitative Finance · Algorithmic Trading · Systems Security · Biometric Systems</td>
   </tr>
   <tr>
-    <td>📍 <b>Base</b></td>
+    <td><b>Base</b></td>
     <td>Málaga, Spain CET</td>
   </tr>
 </table>
 
-<!-- ──────────────────────────── 📂 REPOSITORIES ──────────────────────────── -->
+<!-- ──────────────────────────── REPOSITORIES ──────────────────────────── -->
 ### 📂 Featured Repositories
-| 🚀 Project | ⚙️ Tools | ⚡ Summary |
+| Project | Tools | Summary |
 |-----------|----------|------------------|
 | [**LLQUANT**](https://github.com/SilverDelgado/LLQuant) | Python | Hybrid asset management framework that combines ML to predict Alpha with LLM Agents to audit fundamental risks and determine delta for final portfolio weighted optimization using Black-Litterman model |
 | [**Regime Detection Market Data**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | HMM · Python · Pytorch | Market data state detection via ML |
@@ -44,16 +44,15 @@
 | [**Auto Stop Spotify**](https://github.com/SilverDelgado/Auto-Stop-Spotify) | Python · Async |  Automatically pauses Spotify whenever it detects audio from other applications like youtube and resumes playback once that audio stops. |
 
 
-<!-- ──────────────────────────── 🥇 HIGHLIGHTS ──────────────────────────── -->
-### 🏆  Certifications & Highlights
+<!-- ──────────────────────────── HIGHLIGHTS ──────────────────────────── -->
+### Certifications & Highlights
 
-- 🇬🇧 **Cambridge University** — *Certificate in Advanced English (Level C1)*
-- ⚡ **NVIDIA** — *Fundamentals of Accelerated Computing with CUDA C/C++* 
-- 🧠 **NVIDIA** — *Fundamentals of Deep Learning*  
-- 🛡️ **Google** — *Cybersecurity Workshop (Security, Safety and Privacy Team)*
-- 
-<!-- ──────────────────────────── ✉️ CONTACT ──────────────────────────── -->
-### 🤝  Let's Connect
+- **Cambridge University** — *Certificate in Advanced English (Level C1)*
+- **NVIDIA** — *Fundamentals of Accelerated Computing with CUDA C/C++* 
+- **NVIDIA** — *Fundamentals of Deep Learning*  
+- **Google** — *Cybersecurity Workshop (Security, Safety and Privacy Team)*
+<!-- ──────────────────────────── CONTACT ──────────────────────────── -->
+### Social
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pjdm5/">
