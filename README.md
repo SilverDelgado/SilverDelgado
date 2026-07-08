@@ -47,10 +47,10 @@
 <!-- ──────────────────────────── HIGHLIGHTS ──────────────────────────── -->
 ### Certifications & Highlights
 
-- **Cambridge University** — *Certificate in Advanced English (Level C1)*
-- **NVIDIA** — *Fundamentals of Accelerated Computing with CUDA C/C++* 
-- **NVIDIA** — *Fundamentals of Deep Learning*  
-- **Google** — *Cybersecurity Workshop (Security, Safety and Privacy Team)*
+- **Cambridge University** - *Certificate in Advanced English (Level C1)*
+- **NVIDIA** - *Fundamentals of Accelerated Computing with CUDA C/C++* 
+- **NVIDIA** - *Fundamentals of Deep Learning*  
+- **Google** - *Cybersecurity Workshop (Security, Safety and Privacy Team)*
 <!-- ──────────────────────────── CONTACT ──────────────────────────── -->
 ### Social
 
