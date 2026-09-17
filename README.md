@@ -1,5 +1,5 @@
 <!-- ──────────────────────────── BANNER ──────────────────────────── -->
-<h1 align="center"><b>Hey, I'm Pablo Jesús – SilverDelgado </b></h1>
+<h1 align="center"><b>Hey, I'm Pablo Jesús / SilverDelgado </b></h1>
 <p align="center">
   <img src="https://github.com/SilverDelgado/SilverDelgado/blob/main/assets/logo.png"
        alt="PJ Logo" width="200px" />
