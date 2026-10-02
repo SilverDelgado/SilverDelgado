@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td><b>Stack</b></td>
-    <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ SQL
+    <td>Python ‧ C ‧ CUDA ‧ PyTorch ‧ Solidity
 </td>
   </tr>
   <tr>
