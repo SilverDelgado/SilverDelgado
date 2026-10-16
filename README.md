@@ -33,7 +33,7 @@
 ### 📂 Featured Repositories
 | Project | Tools | Summary |
 |-----------|----------|------------------|
-| [**LLQUANT**](https://github.com/SilverDelgado/LLQuant) | Python | Hybrid asset management framework that combines ML to predict Alpha with LLM Agents to audit fundamental risks and determine delta for final portfolio weighted optimization using Black-Litterman model |
+| [**LLQUANT**](https://github.com/SilverDelgado/LLQuant) | Python | Hybrid asset management framework that combines ML to predict Alpha with LLM Agents to audit fundamental risks and determine delta for final portfolio weighted optimization using Black-Litterman model | [**ReStackor-Keygen**](https://github.com/SilverDelgado/Shim-ReStackor-License-Logic) | Ghidra · Python · x64dbg| Reverse engineering of the suspension tunning software Shim ReStackor to create a keygen and get the PRO version 
 | [**Regime Detection Market Data**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | HMM · Python · Pytorch | Market data state detection via ML |
 | [**Federated Transfer Learning for multiple sclerosis detection**](https://github.com/SilverDelgado/ftl-anatomical-planes) | Flower · Pytorch | Federated Transfer Learning for multiple sclerosis vs control (binary) classification across anatomical planes using FLAIR |
 | [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · Pytorch · CUDA | AI for Earthquake Response Competition solution implementation |
