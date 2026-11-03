@@ -5,7 +5,7 @@
        alt="PJ Logo" width="200px" />
 </p>
 <p align="center">
-  <em>AI Engineer @ Dekra & Cybersecurity & AI student · Algorithmic Trading enthusiast</em>
+  <em>AI Engineer @ DEKRA · Cybersecurity & AI student · Algorithmic Trading enthusiast</em>
 </p>
 
 <!-- ──────────────────────────── QUICK BITS ──────────────────────────── -->
