@@ -34,15 +34,13 @@
 | Project | Tools | Summary |
 |-----------|----------|------------------|
 | [**LLQUANT**](https://github.com/SilverDelgado/LLQuant) | Python | Hybrid asset management framework that combines ML to predict Alpha with LLM Agents to audit fundamental risks and determine delta for final portfolio weighted optimization using Black-Litterman model |
-| [**ReStackor-Keygen**](https://github.com/SilverDelgado/Shim-ReStackor-License-Logic) | Ghidra · Python · x64dbg | Reverse engineering of the suspension tunning software Shim ReStackor to create a keygen and get the PRO version |
-| [**Regime Detection Market Data**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | HMM · Python · Pytorch | Market data state detection via ML |
 | [**Federated Transfer Learning for multiple sclerosis detection**](https://github.com/SilverDelgado/ftl-anatomical-planes) | Flower · Pytorch | Federated Transfer Learning for multiple sclerosis vs control (binary) classification across anatomical planes using FLAIR |
-| [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · Pytorch · CUDA | AI for Earthquake Response Competition solution implementation |
-| [**Altair AI Studio Comp**](https://github.com/Sauvageduck24/Altair-AI-Studio-Comp) | Altair AI Studio · Streamlit | Altair AI Studio workflow turning raw FX data into trading intelligence |
+| [**Adversarial ML: attacks, defenses and backdoors**](https://github.com/SilverDelgado/rp2-physical-adversarial-patches) | Pytorch · ART | [RP2 physical patches vs FGSM](https://github.com/SilverDelgado/rp2-physical-adversarial-patches) on traffic signs, [defensive distillation and adversarial training](https://github.com/SilverDelgado/defensive-distillation-cifar10), and [BadNets backdoors detected with Neural Cleanse](https://github.com/SilverDelgado/badnets-neural-cleanse) |
+| [**ML EDR / NDR with zero-day detection**](https://github.com/SilverDelgado/ml-edr-ndr-zero-day) | Python · scikit-learn · scapy | Endpoint and network monitoring probes with supervised models plus an unsupervised layer to catch zero-days |
 | [**HMU**](https://github.com/Sauvageduck24/HMU) | CUDA · PyTorch | Re-creation of Hippocampus Memory Unit paper (and dopamine gating) + open-sourced code |
-| [**University Class Practices**](https://github.com/SilverDelgado/Universidad-Optimizacion) | Python | University class practices in different fields, such as AI, algorithms, etc. |
-| [**Pattern Detection Market Data**](https://github.com/SilverDelgado/Market-data-pattern-recognition) | Python · Pytorch | Detects unusual patterns in market data that may indicate opportunities or risks |
-| [**Auto Stop Spotify**](https://github.com/SilverDelgado/Auto-Stop-Spotify) | Python · Async |  Automatically pauses Spotify whenever it detects audio from other applications like youtube and resumes playback once that audio stops. |
+| [**EESA AI for Earthquake Response Competition**](https://github.com/Sauvageduck24/AIFOREARTHQUAKE) | Python · Pytorch · CUDA | AI for Earthquake Response Competition solution implementation |
+| [**Regime Detection Market Data**](https://github.com/SilverDelgado/Market-Data-Regime-Detection) | HMM · Python · Pytorch | Market data state detection via ML |
+| [**ReStackor License Reversing**](https://github.com/SilverDelgado/Shim-ReStackor-License-Logic) | Ghidra · Python · x64dbg | Reverse engineering of the license verification logic of the suspension tuning software Shim ReStackor |
 
 
 <!-- ──────────────────────────── HIGHLIGHTS ──────────────────────────── -->
